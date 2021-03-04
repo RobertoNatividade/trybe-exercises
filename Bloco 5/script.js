@@ -1,0 +1,1 @@
+document.getElementById('frase').innerText = 'Exemplos com getElementById';
